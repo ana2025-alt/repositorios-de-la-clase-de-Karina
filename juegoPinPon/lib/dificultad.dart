@@ -1,1 +1,0 @@
-enum Dificultad { facil, medio, dificil }
